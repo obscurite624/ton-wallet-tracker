@@ -9,7 +9,7 @@ TonWalletTrack is a blockchain monitoring tool for the TON network, designed to 
 # How to search for a Token holders
 
 Simply paste the token CA into the search bar and press 'enter' or the search icon!
-(gif)
+![walletSearchVid](https://github.com/obscurite624/ton-wallet-tracker/assets/102254783/baccef50-1374-4253-a007-8ee713ab4b5d)
 
 # How to search for a Wallet holdings
 
